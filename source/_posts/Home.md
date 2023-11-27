@@ -1,19 +1,25 @@
 ---
 title: 欢迎页
-top: true
+top: 999
 comments: false
+description: 关于这个博客的大概
 date: 2023-07-02 00:00:00
 ---
 ---
+
 # 你好，欢迎来到冉森和初音酱的小客栈
+
 ---
-这里是**冉森**。
 
-很高兴你来到这里。
+我是**冉森**。
 
-你可以先去[**初音的小茶坊**](https://blog.ranzon.xyz/teaspace/ "初音的小茶坊")稍作休息。
+很高兴你能来到这里。
 
-或径直前往[**冉森的工作室**](https://blog.ranzon.xyz/codesite/)开始旅程。
+[**初音的小茶坊**](https://blog.ranzon.xyz/categories/茶坊/)记录了一些生活中的日常思考。
+
+[**冉森的工作室**](https://blog.ranzon.xyz/categories/工作室/)记录了一些技术实践方面的问题和尝试。
+
+[**星空屋**](https://blog.ranzon.xyz/categories/星空屋/)记录了一些突然的奇思妙想，部分含有发癫内容。
 
 ---
 
@@ -23,12 +29,12 @@ date: 2023-07-02 00:00:00
 
 ---
 
-本博客文章内容除特殊标记外，均遵循Creative Commons 4.0 BY-SA License。
+本博客文章内容除特殊标记外，均遵循Creative Commons 4.0 BY-NC-SA License。
 
 这意味着：
 
 - 您在共享、演绎作品时需要**有效的署名**。
-- 您若改变、转变或更改作品时，也需要**遵循CC-BY-SA协议**。
+- 您若改变、转变或更改作品时，也需要**遵循CC BY-NC-SA 4.0协议**。
 
 另外：
 
